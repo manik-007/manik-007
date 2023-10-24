@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Manik, an exploring and curious student, pursuing Btech in Computer Science from Chandigarh Group Of Colleges Landran. Passionate to learn new technologies and connect with like minded people. Currently learning web developm.ent and recently started my journey as a linux user 
+I am Manik, an exploring and curious student, pursuing Btech in Computer Science from Chandigarh Group Of Colleges Landran. Passionate to learn new technologies and connect with like minded people. Currently learning web development and recently started my journey as a linux user.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! I am Manik, an exploring and curious Computer Science student. Passionate to learn new technologies and connect with like minded people. <br>I am a Community guy who loves to be a part of diverse, inclusive and helpful communities.<br>Web development, cyber security and open source fascinates me the most.<br>Apart from tech, I like to read, research on the topics which interests me the most and music is my ultimate pill to relaxation.</h2>
+<h2 align="left">Hi 👋! I am Manik, a passionate Computer Science student. I'm eager to learn new technologies and connect with like minded people. <br>I am a Community guy who loves to be a part of diverse, inclusive and helpful communities.<br>Web3 and open source fascinates me the most.<br>Apart from tech, I like to read, research on the topics which interests me the most and music is my ultimate pill to relaxation.</h2>
 
 ## 🌐 Socials:
 ###
